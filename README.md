@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Alex Dunn aka SuavePirate. 
+
+I'm the head of product and principal architect at Voicify with a focus on App Dev, AI, and Accessibility.
+I also speak at conferences around the world to teach other developers how to make the most of their skills to solve problems in new ways!
+
+You can check out my blog posts and series at https://suavepirate.com or catch me on twitch every now and then when I'm streaming building cool AI and accessibility tech at twitch.tv/suave_pirate
+
+
+I'm also hiring for my team at Voicify! Checkout open dev positions at https://voicify.com/careers
 
 <!--
 **SuavePirate/SuavePirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
