@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Alex Dunn aka SuavePirate. 
+### Hi there 👋 I'm Alex Dunn aka SuavePirate 🏴‍☠️ 
 
 I'm the head of product and principal architect at Voicify with a focus on App Dev, AI, and Accessibility.
 I also speak at conferences around the world to teach other developers how to make the most of their skills to solve problems in new ways!
