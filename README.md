@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alex Dunn aka SuavePirate 🏴‍☠️ 
 
-I'm the head of product and principal architect at Voicify (https://voicify.com) with a focus on App Dev, AI, and Accessibility. I'm also the creator and founder of Enabled Play (https://enabledplay.com) where we build devices and services to make technology more accessible and personalized for everyone!
+I'm the founder of Cephable (https://cephable.com) - a software platform for digital assitive technology and alternative human-computer interaction modalities. Prior to that I was head of product and principal architect at Voicify (https://voicify.com) with a focus on App Dev, AI, and Accessibility. 
 
 You can check out my blog posts and series at https://suavepirate.com, follow me on twitter at https://twitter.com/suave_pirate, or catch me on twitch every now and then when I'm streaming building cool AI and accessibility tech at https://twitch.tv/suave_pirate
 
